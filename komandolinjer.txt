@@ -1,4 +1,14 @@
 git status
-git add
-git commit
+- Se hvilke filer du har lagt til
+
+git add FILENAME
+- Legg til fil til commiting
+
+git commit -m "Commit message"
+- Commit ferdig lagt til filer
+
 git log
+- Se de siste commitene som har skjedd
+
+git diff
+- Se endringene du har gjort
