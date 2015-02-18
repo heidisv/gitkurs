@@ -12,3 +12,6 @@ git log
 
 git diff
 - Se endringene du har gjort
+
+git push
+- Dytt kode opp til hoveddepo
