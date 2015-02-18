@@ -20,13 +20,6 @@ git push
 - Dytt kode opp til hoveddepo
 
 
+git pull
+- Hent kode fra hoveddepo
 
-
-
-
-
-
-
- :-)
-
-bla bla bla
