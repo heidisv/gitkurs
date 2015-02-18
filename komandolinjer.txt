@@ -15,3 +15,13 @@ git diff
 
 git push
 - Dytt kode opp til hoveddepo
+
+
+
+
+
+
+
+
+
+ :-)
