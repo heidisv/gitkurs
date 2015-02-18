@@ -1,3 +1,6 @@
+
+tjohei
+
 git status
 - Se hvilke filer du har lagt til
 
@@ -25,3 +28,5 @@ git push
 
 
  :-)
+
+bla bla bla
